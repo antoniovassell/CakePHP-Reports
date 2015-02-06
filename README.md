@@ -1,8 +1,6 @@
 CakePHP Reports Plugin
 ========================
 
--------------------------
-
 A report's plugin for CakePHP 3.0.
 
 Requirements
