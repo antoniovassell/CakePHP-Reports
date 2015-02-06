@@ -3,6 +3,8 @@ CakePHP Reports Plugin
 
 A report's plugin for CakePHP 3.0.
 
+TODO
+
 Requirements
 ------------
 
@@ -11,6 +13,7 @@ Requirements
 
 Documentation
 -------------
+TODO
 
 Support
 -------
@@ -20,6 +23,7 @@ For bugs and feature requests, please use the [issues](https://github.com/antoni
 Contributing
 ------------
 
+TODO
 
 License
 -------
